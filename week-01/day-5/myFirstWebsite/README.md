@@ -1,0 +1,2 @@
+# myFirstWebsite
+GF tanfolyamra projektmunka
